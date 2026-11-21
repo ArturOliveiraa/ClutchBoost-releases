@@ -7,10 +7,10 @@
 <br>
 
 <a href="https://github.com/ArturOliveiraa/ClutchBoost-releases/releases/latest/download/ClutchBoost.exe">
-  <img src="https://img.shields.io/badge/BAIXAR%20O%20CLUTCHBOOST-Windows%2010%20%2F%2011-FF6A00?style=for-the-badge&logo=windows&logoColor=white" alt="Baixar o ClutchBoost" height="56">
+  <img src="https://img.shields.io/badge/%E2%AC%87%20%20Baixar%20o%20ClutchBoost-FF6A00?style=for-the-badge&labelColor=FF6A00" alt="Baixar o ClutchBoost" height="56">
 </a>
 
-<br><br>
+<br><sub>Windows 10 / 11 · não precisa instalar</sub><br><br>
 
 <a href="https://github.com/ArturOliveiraa/ClutchBoost-releases/releases/latest"><img src="https://img.shields.io/github/v/release/ArturOliveiraa/ClutchBoost-releases?label=vers%C3%A3o&color=1F2937" alt="Versão"></a>
 
